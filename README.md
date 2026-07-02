@@ -61,6 +61,11 @@ Profesional en **administración de sistemas y entornos cloud**, afincado en Mad
 ### 📊 Estadísticas
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats-mu-one-14.vercel.app/api?username=christiangt03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-mu-one-14.vercel.app/api/top-langs/?username=christiangt03&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christiangt03&theme=tokyonight&hide_border=true"/>
 </p>
 
