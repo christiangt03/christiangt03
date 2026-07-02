@@ -52,18 +52,13 @@ Profesional en **administración de sistemas y entornos cloud**, afincado en Mad
 
 ### 📜 Certificaciones
 
-| Azure | AWS | Otras |
-|-------|-----|-------|
-| AZ-104 · AZ-500 · AZ-900 | Solutions Architect Associate (SAA-C03) | GitHub Actions (GH-200) · Docker (DCA) |
+| Azure | AWS | Microsoft 365 | Otras |
+|-------|-----|---------------|-------|
+| AZ-104 · AZ-500 · AZ-900 | Solutions Architect Associate (SAA-C03) | AB-900 (Copilot & Agent Admin) | GitHub Actions (GH-200) · Docker (DCA) |
 
 ---
 
 ### 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=christiangt03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiangt03&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christiangt03&theme=tokyonight&hide_border=true"/>
