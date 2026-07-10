@@ -76,6 +76,8 @@ Profesional en **administración de sistemas y entornos cloud**, afincado en Mad
 - **[azure-iac-portfolio](https://github.com/christiangt03/azure-iac-portfolio)** — Portfolio de IaC en Azure con Terraform: módulos reutilizables, entornos dev/prod con backend remoto, CI/CD vía GitHub Actions (OIDC) y pipeline multi-stage en Azure DevOps.
 - **[raspberrypi-azure-home-server](https://github.com/christiangt03/raspberrypi-azure-home-server)** — Home server sobre Raspberry Pi con Pi-hole y monitorización integrada en Azure.
 - **[minecraft-server-azure](https://github.com/christiangt03/minecraft-server-azure)** — Servidor de Minecraft (Java + Bedrock) en Azure con Terraform: encendido bajo demanda, auto-apagado por inactividad, backups y alertas (~6-8 €/mes).
+- **[minecraft-modded-server-azure](https://github.com/christiangt03/minecraft-modded-server-azure)** — Variante con mods (NeoForge, modpack de 270 mods): VM dimensionada según las cuotas de vCPU de la suscripción, mismo patrón de encendido bajo demanda y despliegue completo con Terraform.
+- **[scripts-mantenimiento-windows](https://github.com/christiangt03/scripts-mantenimiento-windows)** — Toolkit en PowerShell para diagnóstico, limpieza y optimización de Windows 11: menú interactivo en español, informes detallados y confirmación antes de cualquier cambio.
 
 ---
 
